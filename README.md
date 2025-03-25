@@ -50,19 +50,7 @@ With a solid background in software development, I specialize in creating robust
 
 #
 ## 🚀 Projects
-Here are a few of the projects that showcase my skills and interests:
 
-1. [Project Name]
-Description: [Brief description of the project, its purpose, and your role in it.]
-Technologies Used: [List of technologies used.]
-
-2. [Project Name]
-Description: [Brief description of the project, its purpose, and your role in it.]
-Technologies Used: [List of technologies used.]
-
-3. [Project Name]
-Description: [Brief description of the project, its purpose, and your role in it.]
-Technologies Used: [List of technologies used.]
 
 ## 🌱 Continuous Learning
 I am always eager to learn and grow as a professional. Whether it's taking courses on the latest technologies or staying updated with industry trends, I am committed to personal and professional development.
