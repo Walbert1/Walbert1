@@ -50,8 +50,12 @@ With a solid background in software development, I specialize in creating robust
 
 #
 ## 🚀 Projects
+
+**Capstone Project**
 https://github.com/SoftWal/soundstrike
 https://youtu.be/L9WCQ9b21X0
+
+**Personal Projects**
 
 ## 🌱 Continuous Learning
 I am always eager to learn and grow as a professional. Whether it's taking courses on the latest technologies or staying updated with industry trends, I am committed to personal and professional development.
